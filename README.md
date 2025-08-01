@@ -1,4 +1,10 @@
-# 🥋 Codewars Kata
+<p align="center">
+  <a href="https://www.codewars.com/">
+    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="Codewars logo" height="80">
+  </a>
+</p>
+
+<h1 align="center">Codewars Kata</h1>
 
 This repository contains my personal solutions to coding challenges from [Codewars](https://www.codewars.com/).
 
@@ -33,3 +39,6 @@ cd codewars-kata/<>
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE.md).
+
+This repository is for educational purposes only.  
+All solutions were written by me.
